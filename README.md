@@ -3,6 +3,7 @@
 **Revolutionizing Tax Systems Through AI & Cloud Innovation**
 
 Author: Chuqiao Wang
+
 *Modernizing Tax Compliance ∙ Preventing Fraud ∙ Driving Economic Efficiency*
 
 ## Table of Contents
@@ -22,7 +23,6 @@ Author: Chuqiao Wang
 ## Overview
 Open-Tax is an AI-powered cloud platform transforming tax compliance through automated data integration, real-time anomaly detection, and multi-jurisdictional reconciliation. Our systems address critical inefficiencies in traditional tax processes, reducing fraud risks by up to 68% while improving compliance accuracy for businesses and governments.
 
-![System Architecture Diagram](https://via.placeholder.com/800x400.png?text=AI+Tax+Platform+Architecture)
 
 ## Key Features
 - **Real-Time Compliance Monitoring**  
